@@ -3,3 +3,7 @@ modules:
   - path: ./
     includes:
       - cloud_protos
+lint:
+  use:
+    - IMPORT_USED
+
